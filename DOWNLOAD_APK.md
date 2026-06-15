@@ -1,7 +1,9 @@
 # رابط تحميل التطبيق
 
-بعد نجاح البناء على GitHub سيظهر ملف APK هنا:
+بعد نجاح البناء، حمل ملف APK مباشرة من هذا الرابط:
 
-`apk/customers-services.apk`
+https://github.com/aljwaal1/mshare2/raw/main/apk/customers-services.apk
 
-رابط التحميل المباشر سيُكتب تلقائيًا داخل هذا الملف بعد البناء.
+اسم الملف:
+
+apk/customers-services.apk
